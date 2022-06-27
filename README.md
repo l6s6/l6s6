@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @l6s6
-- 👀 I’m interested in programming, swimming and playing the piano
 - 🌱 I’m currently programming using Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Development.leopold@gmail.com
