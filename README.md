@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @l6s6
-- 🌱 I’m currently programming using Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Development.leopold@gmail.com
+
